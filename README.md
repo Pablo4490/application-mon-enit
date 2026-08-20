@@ -8,10 +8,11 @@
 
 ### ✨ Fonctionnalités Principales
 
+*   **📊 Suivi académique :** Calculez instantanément vos moyennes et anticipez vos prochains DS. Le système d'évaluation s'adapte automatiquement à votre cursus en se basant strictement sur les chartes d'enseignements officielles de l'école.
 *   **💻 Multi-plateforme :** Mon Enit n'est pas seulement une simple application sur votre téléphone, elle se décline en différentes versions telles qu'une version PC (Windows), une version Web mobile (iOS) et une version Web PC (macOS).
 *   **☁️ Synchronisation Cloud :** Les différentes versions peuvent être reliées entre elles en utilisant la sauvegarde Google Drive. En vous connectant à ce service, vous assurez la sauvegarde de vos notes dans votre espace personnel tout en bénéficiant de la sécurité de Google.
 *   **🔒 Respect des données :** Aucune donnée n'est récupérée par l'application en dehors de celles sauvegardées en local sur votre appareil et sur votre propre Drive.
-*   **🔄 Toujours à jour :** L'application évolue et reste à jour compte tenu de l'évolution des chartes d'enseignements de l'école.
+* **🔄 Toujours à jour :** L'application évolue en continu pour s'adapter à vos besoins.
 
 ---
 
