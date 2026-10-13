@@ -19,7 +19,7 @@
 ### 🚀 Accéder à l'application
 
 **Pour les utilisateurs Android :**  
-[![](https://img.shields.io/badge/Disponible_sur-Google_Play-048741?style=for-the-badge&logo=google-play&logoColor=white)](METTRE_LE_LIEN_PLAY_STORE_ICI)  
+[![](https://img.shields.io/badge/Disponible_sur-Google_Play-048741?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.pablo449.notesenit)
 *(Bientôt disponible !)*
 
 **Pour les utilisateurs Windows (PC) :**  
