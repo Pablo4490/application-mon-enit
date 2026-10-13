@@ -20,7 +20,7 @@
 
 **Pour les utilisateurs Android :**  
 [![](https://img.shields.io/badge/Disponible_sur-Google_Play-048741?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.pablo449.notesenit)
-*(Bientôt disponible !)*
+*(Disponible dès maintenant)*
 
 **Pour les utilisateurs Windows (PC) :**  
 [![](https://img.shields.io/badge/Télécharger_pour-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Pablo4490/application-mon-enit/releases/latest)
